@@ -4,4 +4,6 @@
 - Setup Your Mac script, traduit en Français
 - 8 configurations
 
-V1.15.0
+## Work with :
+- V1.15.0 Setup-Your-Mac script
+- V1.2.0 SYM-Helper
